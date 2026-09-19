@@ -1,1 +1,25 @@
+<<<<<<< HEAD
 node_modules
+=======
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+backend/menu.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+>>>>>>> fec7138f23a9ea17681c5aa1816807aa445d1c1b
