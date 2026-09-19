@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.vite/
+.next/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Old local backup
+frontend-old/
