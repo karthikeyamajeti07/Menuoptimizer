@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MenuOptimizer
 
 A full-stack restaurant menu optimization project with a Python backend and a React frontend.
@@ -34,3 +35,6 @@ npm run dev
 - Optimize dish descriptions and pricing
 - Generate a downloadable PDF menu
 - Store menu information in SQLite
+=======
+# Menuoptimizer
+>>>>>>> edcc78db45a199a3cc0e85f5da65ef100ba312a7
